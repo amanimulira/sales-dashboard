@@ -1,5 +1,3 @@
-# sales-dashboard
-
 [![View Dashboard](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)](https://public.tableau.com/app/profile/amani.mulira/viz/SalesDashboard_17588012430230/SalesDashboard#2)
 
 # Tableau Sales and Customer Dashboard Project
@@ -52,16 +50,3 @@ Centers on customer data and behaviors:
    - Apply filters for categories or regions.
    - Click on charts to drill down or navigate.
 5. **Publish (Optional)**: Share on Tableau Public or embed in reports. When sharing, credit the original tutorial.
-
-## Prerequisites
-- Tableau Desktop or Tableau Public (free version).
-- Basic knowledge of Tableau (e.g., connecting to data, creating visualizations).
-- Watch the full tutorial for detailed steps: https://www.youtube.com/watch?v=dahrmqT5GD4.
-- If you're new to Tableau, consider the full 21-hour course linked in the video description.
-
-## Credits
-- Created based on the tutorial by Data with Baraa (YouTube channel: https://www.youtube.com/channel/UC8_RSKwbU1OmZWNEoLV1tQg).
-- LinkedIn: https://www.linkedin.com/in/baraa-khatib-salkini-845b1b55/
-- For questions or issues, refer to the course community or YouTube comments.
-
-This README provides a high-level guide; for implementation details, refer to the video tutorial.
